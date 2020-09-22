@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.exe
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.deps.json
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.runtimeconfig.json
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.dll
+C:\Users\moksleivis\source\repos\Paskaita1\nd\bin\Debug\netcoreapp3.1\nd.pdb
+C:\Users\moksleivis\source\repos\Paskaita1\nd\obj\Debug\netcoreapp3.1\nd.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\Paskaita1\nd\obj\Debug\netcoreapp3.1\nd.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\Paskaita1\nd\obj\Debug\netcoreapp3.1\nd.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\Paskaita1\nd\obj\Debug\netcoreapp3.1\nd.dll
+C:\Users\moksleivis\source\repos\Paskaita1\nd\obj\Debug\netcoreapp3.1\nd.pdb

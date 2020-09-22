@@ -1,0 +1,11 @@
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.exe
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.deps.json
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.runtimeconfig.json
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.dll
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\bin\Debug\netcoreapp3.1\Paskaita3.pdb
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\obj\Debug\netcoreapp3.1\Paskaita3.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\obj\Debug\netcoreapp3.1\Paskaita3.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\obj\Debug\netcoreapp3.1\Paskaita3.dll
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\obj\Debug\netcoreapp3.1\Paskaita3.pdb
+C:\Users\moksleivis\source\repos\Paskaita1\Paskaita3\obj\Debug\netcoreapp3.1\Paskaita3.csprojAssemblyReference.cache
