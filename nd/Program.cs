@@ -1,4 +1,5 @@
-﻿using System;
+﻿using nd.employees;
+using System;
 
 namespace nd
 {
@@ -7,29 +8,11 @@ namespace nd
         static void Main(string[] args)
         {
 
-            int x;
-            string output= "";
+            FullEmployee employee = new FullEmployee();
 
-            if (!int.TryParse(Console.ReadLine(), out x))
-            {
-                Console.WriteLine("Blogai ivestas skaicius");
-                return;
-            }
+            employee.benefits();
 
-            for(int i = x; i>0; i-=2)
-            {
-
-                for(int j = (x-i)/2;j>0;j--)
-                {
-                    output += " ";
-                }
-                for (int k = i; k > 0; k--)
-                {
-                    output += "x";
-                }
-                output += "\n";
-            }
-            Console.WriteLine(output);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
         }
     }
 }
