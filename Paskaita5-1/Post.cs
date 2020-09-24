@@ -17,6 +17,7 @@ namespace Paskaita5_1
             Author = author;
             TimeCreated = timeCreated;
             Status = status.Public;
+            reports = 0;
 
         }
 
@@ -56,7 +57,7 @@ namespace Paskaita5_1
         public List<User> Visibility
         {
             get { if (Status != status.Public) return new List<User>();  return visibility; }
-            set { if (canSetVisibility()) visibility = value; }
+            set { visibility = value; }
         }
 
         private List<Comment> comments;
@@ -68,7 +69,7 @@ namespace Paskaita5_1
         }
 
 
-        public void edit(String text, DateTime timeEdited)
+        public void Edit(String text, DateTime timeEdited)
         {
             TimeEdited = timeEdited;
             isEdited = true;
@@ -76,25 +77,20 @@ namespace Paskaita5_1
 
         }
 
-        public void share(String Location, DateTime time)
+        public void Share(String Location, DateTime time)
         {
-            //Tipo postina, nes nzn kaip cia padaryti ta postinima :DDD
+            //Tipo sharina, nes nzn kaip cia padaryti ta sharinima :DDD
 
         }
 
-        public void report()
+        public void Report()
         {
-
+            reports++;
             if (reports > 10)
                 Status = status.Private;
-            reports++;
 
         }
 
-        public Boolean canSetVisibility()
-        {
-            return !(reports > 10);
-        }
 
 
 
